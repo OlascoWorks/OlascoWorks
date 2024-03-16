@@ -44,6 +44,8 @@
   
  ✌️ &emsp; Enjoy writing code that does amazing stuff! <br/><br/>
  ❤️ &emsp; Love bringing ideas to life<br/><br/>
+ 👩🏽‍🍳 &emsp; Currently working on [SMS](https://github.com/OlascoWorks/S.M.S)<br/><br/>
+ 📃 &emsp; Check out my [resume](https://github.com/OlascoWorks/OlascoWorks/blob/main/Olamide-Samuel-Fatola-FlowCV-Resume-20240316%20(2).pdf)<br/><br/>
  📧 &emsp; Reach me anytime: samuelayodeji2478@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/OlascoWorks/issues)
 
