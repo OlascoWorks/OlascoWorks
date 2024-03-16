@@ -58,6 +58,8 @@
 ![Python](https://img.shields.io/badge/Python-2E7EEA?style=for-the-badge&logo=python&logoColor=F0DB4F)
 ![Flask](https://img.shields.io/badge/Flask-3C873A?style=for-the-badge&logo=flask&logoColor=F0DB4F)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF4154?style=for-the-badge&labelColor=black&logo=sqlalchemy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-1572B6?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-0078d7?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -76,7 +78,7 @@
 <br/>
 
 ## Top Open Source -
-[![py-grid](https://github-readme-stats.vercel.app/api/pin/?username=olascoworks&repo=dresser&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/OlascoWorks/py-grid)
+[![cli-grid](https://github-readme-stats.vercel.app/api/pin/?username=olascoworks&repo=dresser&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/OlascoWorks/py-grid)
 [![url.io](https://github-readme-stats.vercel.app/api/pin/?username=olascoworks&repo=url.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/OlascoWorks/url.io)
 [![highlighter](https://github-readme-stats.vercel.app/api/pin/?username=olascoworks&repo=highlighter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/OlascoWorks/highlighter)
 [![Auto Youtube Downloader](https://github-readme-stats.vercel.app/api/pin/?username=olascoworks&repo=Auto-youtube-video-downloader&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/OlascoWorks/Auto-youtube-video-downloader)
